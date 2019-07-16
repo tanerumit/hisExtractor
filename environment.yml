@@ -1,0 +1,15 @@
+name: hisExtract
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python>=3.6
+  - numpy>=1.12
+  - scipy>=1.0
+  - gdal>=2.2.4
+  - netcdf4>=1.4.1
+  - pyinstaller>=3.3
+  - versioneer>=0.18
+  - python-dateutil>=2.7
